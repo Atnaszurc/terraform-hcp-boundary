@@ -8,5 +8,5 @@ terraform {
 }
 
 provider "hcp" {
-  # Configuration options
+  project_id = "9bfe2597-1613-45d0-a1b7-81c625a2ae16"
 }
